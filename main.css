@@ -234,7 +234,7 @@ body{
     .especificaciones .listSpects{
         list-style-type:circle;
     }
-    
+
     .box3rd{
         height: 600px;
         padding: 40px 5%;
@@ -338,6 +338,7 @@ body{
         font-size: 18px;
         font-weight: bolder;
         border-radius: 5px;
+        align-self: center;
     }
     .nav-item:hover{
         background-color: grey;
