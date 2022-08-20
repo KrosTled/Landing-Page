@@ -23,7 +23,7 @@ body{
 }
 .nav-item:hover{
     background-color: grey;
-    transform: scale(2);
+    transform: scale(1.2);
 }
 .main-header{
     display: flex;
@@ -201,7 +201,7 @@ body{
     }
     .nav-item:hover{
         background-color: grey;
-        transform: scale(2);
+        transform: scale(1.2);
     }
     .main-header{
         display: flex;
@@ -361,7 +361,7 @@ body{
     }
     .nav-item:hover{
         background-color: grey;
-        transform: scale(2);
+        transform: scale(1);
     }
     .main-header{
         display: flex;
